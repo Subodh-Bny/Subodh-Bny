@@ -8,7 +8,7 @@
 
 ![Subodh's GitHub stats](https://github-readme-stats.vercel.app/api?username=subodh-bny&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subodh-bny&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=subodh-bny&theme=tokyonight" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subodh-bny&layout=donut&theme=tokyonight)](https://github.com/subodh-bny/github-readme-stats)
 
