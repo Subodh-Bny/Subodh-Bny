@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subodh</h1>
-<h3 align="center">a budding web developer with a deep love for creating elegant and efficient solutions using code. I thrive on challenges and am constantly seeking to expand my skill set in the ever-evolving world of web development.</h3>
+<h3 align="center">A budding web developer with a deep love for creating elegant and efficient solutions using code. I thrive on challenges and am constantly seeking to expand my skill set in the ever-evolving world of web development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
