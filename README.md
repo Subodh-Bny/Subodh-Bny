@@ -8,5 +8,5 @@
 
 ![Subodh's GitHub stats](https://github-readme-stats.vercel.app/api?username=subodh-bny&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subodh-bny&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subodh-bny&layout=donut)](https://github.com/subodh-bny/github-readme-stats)
 
