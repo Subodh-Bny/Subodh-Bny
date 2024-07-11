@@ -11,4 +11,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subodh-bny&layout=donut&theme=tokyonight)](https://github.com/subodh-bny/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Subodh-Bny&theme=tokyonight)](https://git.io/streak-stats)
 
