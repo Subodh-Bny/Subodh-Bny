@@ -39,6 +39,23 @@
 
 ###
 
+##
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/Subodh-Bny/Subodh-Bny/tree/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/Subodh-Bny/Subodh-Bny/tree/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://github.com/Subodh-Bny/Subodh-Bny/tree/github-breakout//images/breakout-light.svg" />
+</picture>
+
+
+###
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
