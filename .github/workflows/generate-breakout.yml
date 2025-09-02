@@ -2,7 +2,7 @@ name: generate breakout svg
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *" # daily at 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -11,15 +11,19 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    concurrency:
+      group: breakout
+      cancel-in-progress: true
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: generate SVG
-        uses: cyprieng/github-breakout@v1.0.0
+      - name: Generate SVG
+        uses: cyprieng/github-breakout@v1.1.0
         with:
-          github_username: ${{ github.repository_owner }}
+          # hardcode your username to avoid surprises on org repos
+          github_username: Subodh-Bny
 
       - name: Move generated SVGs to temp
         run: |
@@ -35,8 +39,8 @@ jobs:
       - name: Commit and force-push SVGs to target branch
         run: |
           git checkout --orphan github-breakout
-          git rm -rf .
-          mkdir images
+          git rm -rf . || true
+          mkdir -p images
           mv /tmp/breakout-images/* images/
           git add images
           git commit -m "chore: update GitHub breakout SVGs" || echo "No changes to commit"
