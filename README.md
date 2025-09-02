@@ -29,7 +29,7 @@
 
 ###
 
-##
+<!--##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subodh-Bny/Subodh-Bny/output/github-snake-dark.svg" />
@@ -37,9 +37,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-###
+###-->
 
-<!--##
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -48,7 +48,7 @@
           srcset="https://raw.githubusercontent.com/Subodh-Bny/Subodh-Bny/github-breakout/images/breakout-light.svg" />
   <img alt="Breakout Game"
        src="https://raw.githubusercontent.com/Subodh-Bny/Subodh-Bny/github-breakout/images/breakout-light.svg" />
-</picture> -->
+</picture> 
 
 
 
