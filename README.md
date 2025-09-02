@@ -39,7 +39,7 @@
 
 ###
 
-##
+<!--##
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -48,7 +48,7 @@
           srcset="https://raw.githubusercontent.com/Subodh-Bny/Subodh-Bny/github-breakout/images/breakout-light.svg" />
   <img alt="Breakout Game"
        src="https://raw.githubusercontent.com/Subodh-Bny/Subodh-Bny/github-breakout/images/breakout-light.svg" />
-</picture>
+</picture> -->
 
 
 
