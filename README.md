@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Subodh Adhikari and I'm a passionate Web Developer, from Nepal</h2>
+<h2 align="left">Hi 👋! My name is Subodh Adhikari and I'm a passionate React/Next.js Developer, from Nepal</h2>
 
 ###
 
