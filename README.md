@@ -50,7 +50,7 @@
     media="(prefers-color-scheme: light)"
     srcset="https://github.com/Subodh-Bny/Subodh-Bny/tree/github-breakout/images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="https://github.com/Subodh-Bny/Subodh-Bny/tree/github-breakout//images/breakout-light.svg" />
+  <img alt="Breakout Game" src="https://github.com/Subodh-Bny/Subodh-Bny/tree/github-breakout/images/breakout-light.svg" />
 </picture>
 
 
